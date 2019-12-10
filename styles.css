@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body header {
+
+	background-image: url("storytime.png");
+	height:300px;
+	background-repeat: no-repeat;
+    background-position: center top;
+}
+
+body {
+	font-family: Arial;
+}
+
+body header h1, body header h2{
+	padding-left: 450px;
+	color:black;
+}
+
+main {
+	padding-left: 200px;
+}
+
+footer {
+	padding-top: 50px;
+	padding-left: 200px;
+}
+
+
